@@ -1,0 +1,21 @@
+{
+  "name": "node-rest",
+  "version": "1.0.0",
+  "description": "rest server in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "express",
+    "nodejs"
+  ],
+  "author": "Leandro de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "object-to-xml": "^1.1.0"
+  }
+}
